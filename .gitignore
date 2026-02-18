@@ -1,0 +1,25 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.log
+*.tmp
+*.temp
+
+
+# Optional: Keep your design docs private if needed
+portfolio_design_doc.docx
+portfolio_prd.docx
+portfolio_techstack.docx
+NETLIFY_DEPLOY.md
+DEPLOY.md
+
